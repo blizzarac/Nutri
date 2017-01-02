@@ -1,5 +1,6 @@
 appserver/
-target/*
+nutri_server/target/
+nutri_server_st/target/
 *.class
 
 # Mobile Tools for Java (J2ME)
